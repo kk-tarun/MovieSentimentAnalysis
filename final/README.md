@@ -1,0 +1,1 @@
+In this file I have done movie review sentiment analysis with the help of some common Python libraries like os and sys. Also I have made GUI in the Project with Python Tkinter Library to make it more attractive.
